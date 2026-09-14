@@ -1,0 +1,3 @@
+--Hi! I'm Appalachian Silly Goose, this is the start of a website project that will soon be a collection
+--of recipes linked together for easy access. This project is meant to demonstrate a plethora of HTML
+--practices such as formatting, lists, links, images, and more.
